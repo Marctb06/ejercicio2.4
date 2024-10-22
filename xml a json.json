@@ -1,0 +1,83 @@
+{
+    "artellera":
+    {
+        "pelicula":
+            {"idioma":"anglès",
+            "titol":"Inception",
+            "director":"Christopher Nolan",
+            "durada":"148",
+            "repartiment":
+            {
+                "actor":
+                {
+                    "protagonista":true,
+                    "nom":"Leonardo DiCaprio",
+                    "personatge":"Dom Cobb"
+                    
+                },
+                "actor_2":
+                { 
+                    "protagonista":false,
+                    "nomJoseph": "Gordon-Levitt",
+                    "personatge":"Arthur"
+                }
+            },
+            
+            "premis":
+            {
+                "premi_efectos":"Oscar als millors efectes visuals",
+                "premi_sonido":"Oscar al millor so"
+            },
+            "fotos":
+            {
+                
+                    "foto1": 
+                    {
+                        "tipus": "cartell",
+                        "nombre_archivo": "inception_poster.jpg"
+                    },
+            
+            
+                    "foto2":{
+                        "tipus": "escena",
+                        "nombre_archivo": "inception_scene1.jpg"
+                }
+              }
+            
+        },
+
+    "pelicula2": {
+    "idioma": "italià",
+    "titol": "La dolce vita",
+    "director": "Federico Fellini",
+    "durada": 174,
+    "repartiment": {
+      "actors": [
+        {
+          "protagonista": true,
+          "nom": "Marcello Mastroianni",
+          "personatge": "Marcello Rubini"
+        },
+        {
+          "protagonista": false,
+          "nom": "Anita Ekberg",
+          "personatge": "Silvia"
+        }
+      ]
+    },
+    "premis": [
+      "Palma d'Or al Festival de Cannes"
+    ],
+    "fotos": [
+      {
+        "tipus": "cartell",
+        "nombre_archivo": "ladolcevita_poster.jpg"
+      },
+      {
+        "tipus": "escena",
+        "nombre_archivo": "ladolcevita_scene1.jpg"
+      }
+    ]
+  }
+}
+    }
